@@ -14,15 +14,3 @@ Gjorde FastAPI med GET för data och POST för prediktion. Massor av problem med
 
 Task 4 - Frontend  
 Streamlit dashboard med tabell från API och formulär för prediktion. Först krånglade httpx (ModuleNotFoundError), sen ConnectError för att backend inte var igång. Tog evigheter att ladda tabell för att det var för många rader, så begränsade till head(10). Priserna kom ut låga (typ 17 kr för lång resa) för att datan verkar vara i dollar, inte kronor. Nu visar jag USD istället.
-
-
-## Screenshots
-![Swagger](screenshots/swagger.png)  
-![Data från /taxi/](screenshots/get-taxi.png)  
-![Prediktion](screenshots/predict.png)  
-![Streamlit](screenshots/streamlit.png)
-
-## Video
-https://youtu.be/XXXXXXXX (ladda upp sen)
-
-Klar med labben nu, var jobbigt men kul tillslut!
